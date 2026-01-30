@@ -1,4 +1,4 @@
-age = 20
+age = -8
 height = 1.78
 is_student = True
 
