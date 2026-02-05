@@ -1,1 +1,1 @@
-PP2 Course in KBTU
+PP2 Course
