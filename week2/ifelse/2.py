@@ -1,7 +1,7 @@
 number = 7
 
 if number % 2 == 0:
-     print("The number is even")
+    print("The number is even")
 else:
     print("The number is odd")
 
@@ -41,4 +41,5 @@ match day:
         print("Sunday")
     case _:
         print("No match")
+
 

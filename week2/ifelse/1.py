@@ -44,14 +44,14 @@ else:
 if day == 1:
     print("Monday")
 elif day == 2:
-     print("Tuesday")
+    print("Tuesday")
 elif day == 3:
-     print("Wednesday")
+    print("Wednesday")
 elif day == 4:
-     print("Thursday")
+    print("Thursday")
 elif day == 5:
     print("Friday")
 elif day == 6:
-     print("Saturday")
+    print("Saturday")
 elif day == 7:
-     print("Sunday")
+    print("Sunday")
