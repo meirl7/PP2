@@ -7,7 +7,7 @@ class Human:
 
 class Student(Human):
     def __init__(self, name, grade):
-        # super() is to get access methods and properties of a perent/sibling class
+        # super() is to get access methods and properties of a perent class
         super().__init__(name) # calling constructor of parent class
         self.grade = grade
 
